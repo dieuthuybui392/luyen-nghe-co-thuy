@@ -1,0 +1,1 @@
+console.log('Trang luyện nghe đã sẵn sàng!');
